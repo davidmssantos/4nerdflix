@@ -1,6 +1,44 @@
 {
   "categorias": [
     {
+      "titulo": "4 Nerds",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Para os nerds de plantão",
+        "url": "https://www.youtube.com/watch?v=U2C6T4EyU28"
+      },
+      "videos": [
+        {
+          "titulo": "Explicando Vingadores Ultimato",
+          "url": "https://www.youtube.com/watch?v=U2C6T4EyU28"
+        },
+        {
+          "titulo": "Hunter X Hunter! TUDO sobre o Novo Arco Continente Sombrio!",
+          "url": "https://www.youtube.com/watch?v=oTD1rdmLBI8"
+        },
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O Efeito Doppler Explicado",
+          "url": "https://www.youtube.com/watch?v=78WkQObqp3U"
+        },
+        {
+          "titulo": "TENTEN PODE DERROTAR O ISSHIKI: VEJA COMO",
+          "url": "https://www.youtube.com/watch?v=YUYtXfT-ZtU"
+        },
+        {
+          "titulo": "My hero academia e outras ligas de heróis",
+          "url": "https://www.youtube.com/watch?v=aRiM3KQoDj4"
+        },
+        {
+          "titulo" : "8 MELHORES FILMES DE GUERRA",
+          "url" : "https://www.youtube.com/watch?v=X9EVzcxqhHU"
+        }
+      ]
+    },
+    {
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
@@ -70,32 +108,6 @@
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
         }
       ]
     },
